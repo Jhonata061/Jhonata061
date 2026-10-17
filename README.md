@@ -22,7 +22,7 @@ Sou analista de risco e fraude e uso dados e programação para tornar a anális
 ### 📊 Estatísticas
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jhonata061&show_icons=true&theme=tokyonight&hide_border=false&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Jhonata061&show_icons=true&theme=tokyonight&hide_border=false&locale=pt-br" alt="Estatísticas do GitHub" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonata061&layout=compact&theme=tokyonight&hide_border=false&locale=pt-br" alt="Tecnologias mais usadas" />
 
 
