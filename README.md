@@ -36,9 +36,12 @@ Sou analista de risco e fraude e uso dados e programação para tornar a anális
 
 ### 📈 Aprendizados recentes
 
-- ✅ Curso de Análise de Fraude concluído
+- ✅ Curso Redes de Computadores
+- ✅ Curso Photoshop
+- ✅ Curso Masterclass em Prevenção a Fraudes: Habilidades Essenciais
 - ✅ Dashboard integrado ao Google Planilhas via Apps Script
-- ✅ Git e GitHub 
+- ✅ Curso Git e GitHub 
+- ✅ Curso Fraud Detection in Python
 - 🔄 Python (curso em andamento)
 
 ### 📫 Contato
