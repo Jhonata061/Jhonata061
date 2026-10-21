@@ -38,8 +38,8 @@ Sou analista de risco e fraude e uso dados e programação para tornar a anális
 
 - ✅ Curso de Análise de Fraude concluído
 - ✅ Dashboard integrado ao Google Planilhas via Apps Script
+- ✅ Git e GitHub 
 - 🔄 Python (curso em andamento)
-- 🔄 Git e GitHub (curso em andamento)
 
 ### 📫 Contato
 
